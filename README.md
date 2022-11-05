@@ -1,6 +1,6 @@
-### Hi there, still working on it 🔨🔨
+<!---### Hi there, still working on it 🔨🔨
 
-<!---
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 --->
 
-<img align= "center"  alt= "Working on it" width= 80% src="https://i.pinimg.com/originals/d1/2d/32/d12d3295cad41d1a793d36db240aab91.gif">
+<img align= "center"  alt= "Working on it" width= 60% src="https://i.pinimg.com/originals/d1/2d/32/d12d3295cad41d1a793d36db240aab91.gif">
