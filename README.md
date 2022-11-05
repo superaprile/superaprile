@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 --->
 
-<img align= "center"  alt= "Working on it" width= 100% src="https://i.pinimg.com/originals/a2/dc/96/a2dc9668f2cf170fe3efeb263128b0e7.gif">
+<img align= "center"  alt= "Working on it" width= 80% src="https://i.pinimg.com/originals/d1/2d/32/d12d3295cad41d1a793d36db240aab91.gif">
